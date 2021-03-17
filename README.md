@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @BharatCube
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning unity
-- 💞️ I’m not looking to collaborate.
-- 📫 How to reach me ...
 
 <!---
 BharatCube/BharatCube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
